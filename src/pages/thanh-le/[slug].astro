@@ -1,0 +1,35 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Logo from '../../components/Logo.astro';
+import ThanhLeDetail from '../../components/ThanhLeDetail.astro';
+import data from '../../../data/data.json';
+
+export function getStaticPaths() {
+
+  return data.map((item) => {
+
+    var slug = item.slug;
+
+    return {
+      params: { slug },
+      item: item,
+      props: { item },
+    };
+  });
+}
+
+const { item } = Astro.props;
+
+const seo = {
+	title: item.title,
+	description: "Thánh Lễ Việt Nam tại Nhật Bản - " + item.title,
+}
+
+---
+
+<Layout seo={seo} >
+	<div class="max-w-[700px] container mx-auto px-5">
+		<Logo />
+    <ThanhLeDetail item={item} />
+	</div>
+</Layout>
