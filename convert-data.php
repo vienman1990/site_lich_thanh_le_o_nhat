@@ -5,7 +5,7 @@ $data = file_get_contents('raw-data.txt');
 $data_converted = parseMassSchedule($data);
 
 // Đường dẫn file JSON bạn muốn lưu
-$file_path = 'public/data.json';
+$file_path = 'data/data.json';
 
 $json_data = json_encode($data_converted, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE);
 
