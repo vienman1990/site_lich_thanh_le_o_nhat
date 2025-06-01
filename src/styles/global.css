@@ -1,5 +1,5 @@
 @import "tailwindcss";
 
 body {
-  @apply bg-pink-200 text-pink-600;
+  @apply bg-blue-200 text-blue-500;
 }
