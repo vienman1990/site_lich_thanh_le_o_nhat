@@ -20,6 +20,9 @@ if (file_exists($file_path)) {
 
 
 function parseMassSchedule($text) {
+
+  $text = str_replace('Tƣờng', 'Tường', $text);
+
   $lines = explode("\n", trim($text)); // Tách thành từng dòng
   $schedule = [];
   $current_year = date('Y');
