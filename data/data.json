@@ -1,614 +1,5 @@
 [
     {
-        "date": "2025-10-04T19:30:00+09:00",
-        "time": "19:30",
-        "title": "Thánh Lễ tại nhà thờ Ignatio, Yotsuya",
-        "name": "Cha Thế SJ",
-        "slug": "thanh-le-tai-nha-tho-ignatio-yotsuya-2025-10-04"
-    },
-    {
-        "date": "2025-10-05T11:00:00+09:00",
-        "time": "11:00",
-        "title": "Thánh Lễ tại Nguyện Xá Chofu, Tokyo",
-        "name": "Cha Lập SDB",
-        "slug": "thanh-le-tai-nguyen-xa-chofu-tokyo-2025-10-05"
-    },
-    {
-        "date": "2025-10-05T11:30:00+09:00",
-        "time": "11:30",
-        "title": "Thánh Lễ tại nhà thờ Ota, Gunma-Ken",
-        "name": "Cha Quốc Định",
-        "slug": "thanh-le-tai-nha-tho-ota-gunma-ken-2025-10-05"
-    },
-    {
-        "date": "2025-10-05T11:30:00+09:00",
-        "time": "11:30",
-        "title": "Thánh Lễ tại nhà thờ Nodamachi, Fukushima-Ken",
-        "name": "Cha Trí Sch.P.",
-        "slug": "thanh-le-tai-nha-tho-nodamachi-fukushima-ken-2025-10-05"
-    },
-    {
-        "date": "2025-10-05T12:00:00+09:00",
-        "time": "12:00",
-        "title": "Thánh Lễ tại nhà thờ Kariya, Aichi-Ken",
-        "name": "Cha Tường SVD",
-        "slug": "thanh-le-tai-nha-tho-kariya-aichi-ken-2025-10-05"
-    },
-    {
-        "date": "2025-10-05T13:00:00+09:00",
-        "time": "13:00",
-        "title": "Thánh Lễ tại nhà thờ Ichinomiya, Aichi-Ken",
-        "name": "Cha Điềm SVD",
-        "slug": "thanh-le-tai-nha-tho-ichinomiya-aichi-ken-2025-10-05"
-    },
-    {
-        "date": "2025-10-05T13:00:00+09:00",
-        "time": "13:00",
-        "title": "Thánh Lễ tại nhà thờ chính tòa Oita",
-        "name": "Cha Trinh",
-        "slug": "thanh-le-tai-nha-tho-chinh-toa-oita-2025-10-05"
-    },
-    {
-        "date": "2025-10-05T14:00:00+09:00",
-        "time": "14:00",
-        "title": "Thánh Lễ tại nhà thờ Kasukabe, Saitama-Ken",
-        "name": "Cha Quốc Định",
-        "slug": "thanh-le-tai-nha-tho-kasukabe-saitama-ken-2025-10-05"
-    },
-    {
-        "date": "2025-10-05T15:00:00+09:00",
-        "time": "15:00",
-        "title": "Thánh Lễ tại nhà thờ Kameoka, Kyoto",
-        "name": "Cha Năng CMF",
-        "slug": "thanh-le-tai-nha-tho-kameoka-kyoto-2025-10-05"
-    },
-    {
-        "date": "2025-10-05T15:00:00+09:00",
-        "time": "15:00",
-        "title": "Thánh Lễ tại nhà thờ Nigawa, Osaka",
-        "name": "Cha Bỉnh OFM Conv.",
-        "slug": "thanh-le-tai-nha-tho-nigawa-osaka-2025-10-05"
-    },
-    {
-        "date": "2025-10-05T15:00:00+09:00",
-        "time": "15:00",
-        "title": "Thánh Lễ tại nhà thờ Kita 11 Jo",
-        "name": "Cha Lam OFM",
-        "slug": "thanh-le-tai-nha-tho-kita-11-jo-2025-10-05"
-    },
-    {
-        "date": "2025-10-05T15:00:00+09:00",
-        "time": "15:00",
-        "title": "Thánh Lễ tại nhà thờ Ignatio, Yotsuya",
-        "name": "Nhã SJ",
-        "slug": "thanh-le-tai-nha-tho-ignatio-yotsuya-2025-10-05"
-    },
-    {
-        "date": "2025-10-05T15:00:00+09:00",
-        "time": "15:00",
-        "title": "Thánh Lễ tại nhà thờ Kurume, Fukuoka",
-        "name": "Cha Thuyên CM",
-        "slug": "thanh-le-tai-nha-tho-kurume-fukuoka-2025-10-05"
-    },
-    {
-        "date": "2025-10-05T15:30:00+09:00",
-        "time": "15:30",
-        "title": "Thánh Lễ tại nhà thờ Chính Tòa Tamatsukuri, Osaka",
-        "name": "",
-        "slug": "thanh-le-tai-nha-tho-chinh-toa-tamatsukuri-osaka-2025-10-05"
-    },
-    {
-        "date": "2025-10-05T16:00:00+09:00",
-        "time": "16:00",
-        "title": "Thánh Lễ tại nhà thờ Fujisawa, Kanagawa-Ken",
-        "name": "Cha Sơn",
-        "slug": "thanh-le-tai-nha-tho-fujisawa-kanagawa-ken-2025-10-05"
-    },
-    {
-        "date": "2025-10-06T18:30:00+09:00",
-        "time": "18:30",
-        "title": "Thánh Lễ tại nhà thờ Akune, Kagoshima-Ken",
-        "name": "Cha Minh Anh",
-        "slug": "thanh-le-tai-nha-tho-akune-kagoshima-ken-2025-10-06"
-    },
-    {
-        "date": "2025-10-11T10:00:00+09:00",
-        "time": "10:00",
-        "title": "Thánh Lễ truyền chức linh mục cho 2 thầy Hùng và Nhật tại Nagoya",
-        "name": "",
-        "slug": "thanh-le-truyen-chuc-linh-muc-cho-2-thay-hung-va-nhat-tai-nagoya-2025-10-11"
-    },
-    {
-        "date": "2025-10-11T19:00:00+09:00",
-        "time": "19:00",
-        "title": "Thánh Lễ tại nhà thờ Nakatsu, Oita-Ken",
-        "name": "Cha Trinh",
-        "slug": "thanh-le-tai-nha-tho-nakatsu-oita-ken-2025-10-11"
-    },
-    {
-        "date": "2025-10-11T19:30:00+09:00",
-        "time": "19:30",
-        "title": "Thánh Lễ tại nhà thờ Fushimi, Kyoto",
-        "name": "Cha Năng CMF",
-        "slug": "thanh-le-tai-nha-tho-fushimi-kyoto-2025-10-11"
-    },
-    {
-        "date": "2025-10-11T19:30:00+09:00",
-        "time": "19:30",
-        "title": "Thánh Lễ tại nhà thờ Ignatio, Yotsuya",
-        "name": "Cha Nhã SJ",
-        "slug": "thanh-le-tai-nha-tho-ignatio-yotsuya-2025-10-11"
-    },
-    {
-        "date": "2025-10-12T11:30:00+09:00",
-        "time": "11:30",
-        "title": "Thánh Lễ tại nhà thờ Seto, Aichi-Ken",
-        "name": "Cha Điềm SVD",
-        "slug": "thanh-le-tai-nha-tho-seto-aichi-ken-2025-10-12"
-    },
-    {
-        "date": "2025-10-12T12:00:00+09:00",
-        "time": "12:00",
-        "title": "Thánh Lễ tại nhà thờ Yamato, Kanagawa-Ken",
-        "name": "Cha Hiến",
-        "slug": "thanh-le-tai-nha-tho-yamato-kanagawa-ken-2025-10-12"
-    },
-    {
-        "date": "2025-10-12T13:00:00+09:00",
-        "time": "13:00",
-        "title": "Thánh Lễ tại nhà thờ Hanamaki, Iwate-Ken",
-        "name": "Cha Trí Sch.P.",
-        "slug": "thanh-le-tai-nha-tho-hanamaki-iwate-ken-2025-10-12"
-    },
-    {
-        "date": "2025-10-12T13:00:00+09:00",
-        "time": "13:00",
-        "title": "Thánh Lễ tại nhà thờ Minami Miyazaki, Miyazaki-Ken",
-        "name": "Cha Trinh",
-        "slug": "thanh-le-tai-nha-tho-minami-miyazaki-miyazaki-ken-2025-10-12"
-    },
-    {
-        "date": "2025-10-12T13:00:00+09:00",
-        "time": "13:00",
-        "title": "Thánh Lễ tại nhà thờ Seishin Toyota, Aichi-Ken",
-        "name": "Cha Tường SVD",
-        "slug": "thanh-le-tai-nha-tho-seishin-toyota-aichi-ken-2025-10-12"
-    },
-    {
-        "date": "2025-10-12T13:30:00+09:00",
-        "time": "13:30",
-        "title": "Thánh Lễ tại nhà thờ Daimyo, Fukuoka",
-        "name": "Cha Tú CM",
-        "slug": "thanh-le-tai-nha-tho-daimyo-fukuoka-2025-10-12"
-    },
-    {
-        "date": "2025-10-12T14:00:00+09:00",
-        "time": "14:00",
-        "title": "Thánh Lễ tại nhà thờ Atsugi, Kanagawa-Ken",
-        "name": "Cha Sơn",
-        "slug": "thanh-le-tai-nha-tho-atsugi-kanagawa-ken-2025-10-12"
-    },
-    {
-        "date": "2025-10-12T14:00:00+09:00",
-        "time": "14:00",
-        "title": "Thánh Lễ tại nhà thờ Ogaki, Gifu-Ken",
-        "name": "Cha Vĩnh Toàn",
-        "slug": "thanh-le-tai-nha-tho-ogaki-gifu-ken-2025-10-12"
-    },
-    {
-        "date": "2025-10-12T14:00:00+09:00",
-        "time": "14:00",
-        "title": "Thánh Lễ tại nhà thờ Tetori, Kumamoto-Ken",
-        "name": "Cha Thuyên CM",
-        "slug": "thanh-le-tai-nha-tho-tetori-kumamoto-ken-2025-10-12"
-    },
-    {
-        "date": "2025-10-12T15:00:00+09:00",
-        "time": "15:00",
-        "title": "Thánh Lễ tại nhà thờ Ignatio, Yotsuya",
-        "name": "Nhã SJ",
-        "slug": "thanh-le-tai-nha-tho-ignatio-yotsuya-2025-10-12"
-    },
-    {
-        "date": "2025-10-12T15:00:00+09:00",
-        "time": "15:00",
-        "title": "Thánh Lễ tại nhà thờ Kichijoji, Tokyo",
-        "name": "Cha Hy SVD",
-        "slug": "thanh-le-tai-nha-tho-kichijoji-tokyo-2025-10-12"
-    },
-    {
-        "date": "2025-10-12T15:00:00+09:00",
-        "time": "15:00",
-        "title": "Thánh Lễ tại nhà thờ Yamato-Takada, Nara-Ken",
-        "name": "Cha Năng CMF",
-        "slug": "thanh-le-tai-nha-tho-yamato-takada-nara-ken-2025-10-12"
-    },
-    {
-        "date": "2025-10-12T15:30:00+09:00",
-        "time": "15:30",
-        "title": "Thánh Lễ tại nhà thờ Chính Tòa Tamatsukuri, Osaka",
-        "name": "",
-        "slug": "thanh-le-tai-nha-tho-chinh-toa-tamatsukuri-osaka-2025-10-12"
-    },
-    {
-        "date": "2025-10-12T16:00:00+09:00",
-        "time": "16:00",
-        "title": "Thánh Lễ tại nhà thờ Narashino, Chiba-Ken",
-        "name": "Cha Tiến",
-        "slug": "thanh-le-tai-nha-tho-narashino-chiba-ken-2025-10-12"
-    },
-    {
-        "date": "2025-10-12T16:00:00+09:00",
-        "time": "16:00",
-        "title": "Thánh Lễ tại nhà thờ Tsukuba, Ibaraki-Ken",
-        "name": "Cha Hiến",
-        "slug": "thanh-le-tai-nha-tho-tsukuba-ibaraki-ken-2025-10-12"
-    },
-    {
-        "date": "2025-10-12T17:30:00+09:00",
-        "time": "17:30",
-        "title": "Thánh Lễ tại nhà thờ Asakusa, Tokyo",
-        "name": "Cha Thế SJ",
-        "slug": "thanh-le-tai-nha-tho-asakusa-tokyo-2025-10-12"
-    },
-    {
-        "date": "2025-10-18T19:00:00+09:00",
-        "time": "19:00",
-        "title": "Thánh Lễ tại nhà thờ Nakatsu, Oita-Ken",
-        "name": "Cha Trinh",
-        "slug": "thanh-le-tai-nha-tho-nakatsu-oita-ken-2025-10-18"
-    },
-    {
-        "date": "2025-10-18T19:30:00+09:00",
-        "time": "19:30",
-        "title": "Thánh Lễ tại nhà thờ Ignatio, Yotsuya",
-        "name": "Cha Thế SJ",
-        "slug": "thanh-le-tai-nha-tho-ignatio-yotsuya-2025-10-18"
-    },
-    {
-        "date": "2025-10-19T10:30:00+09:00",
-        "time": "10:30",
-        "title": "Thánh Lễ tại nhà thờ Kawaguchi, Saitama-Ken",
-        "name": "Cha Thế SJ",
-        "slug": "thanh-le-tai-nha-tho-kawaguchi-saitama-ken-2025-10-19"
-    },
-    {
-        "date": "2025-10-19T11:00:00+09:00",
-        "time": "11:00",
-        "title": "Thánh Lễ tại nhà thờ Yonago, Tottori-Ken",
-        "name": "Cha Hiến",
-        "slug": "thanh-le-tai-nha-tho-yonago-tottori-ken-2025-10-19"
-    },
-    {
-        "date": "2025-10-19T12:00:00+09:00",
-        "time": "12:00",
-        "title": "Thánh Lễ tại nhà thờ Tajimi",
-        "name": "Cha Tường SVD",
-        "slug": "thanh-le-tai-nha-tho-tajimi-2025-10-19"
-    },
-    {
-        "date": "2025-10-19T12:00:00+09:00",
-        "time": "12:00",
-        "title": "Thánh Lễ tại nhà thờ Toyama, Toyama-Ken",
-        "name": "Cha Vĩnh Toàn",
-        "slug": "thanh-le-tai-nha-tho-toyama-toyama-ken-2025-10-19"
-    },
-    {
-        "date": "2025-10-19T13:00:00+09:00",
-        "time": "13:00",
-        "title": "Thánh Lễ tại nhà thờ Kadoma, Osaka",
-        "name": "Cha Ý CMF",
-        "slug": "thanh-le-tai-nha-tho-kadoma-osaka-2025-10-19"
-    },
-    {
-        "date": "2025-10-19T13:00:00+09:00",
-        "time": "13:00",
-        "title": "Thánh Lễ tại nhà thờ Honcho, Aomori-Ken",
-        "name": "Cha Trí Sch.P.",
-        "slug": "thanh-le-tai-nha-tho-honcho-aomori-ken-2025-10-19"
-    },
-    {
-        "date": "2025-10-19T13:00:00+09:00",
-        "time": "13:00",
-        "title": "Thánh Lễ tại nhà thờ Anjo, Aichi-Ken",
-        "name": "Cha Điềm SVD",
-        "slug": "thanh-le-tai-nha-tho-anjo-aichi-ken-2025-10-19"
-    },
-    {
-        "date": "2025-10-19T13:30:00+09:00",
-        "time": "13:30",
-        "title": "Thánh Lễ tại nhà thờ Kawagoe, Saitama-Ken",
-        "name": "Cha Tín SC",
-        "slug": "thanh-le-tai-nha-tho-kawagoe-saitama-ken-2025-10-19"
-    },
-    {
-        "date": "2025-10-19T14:00:00+09:00",
-        "time": "14:00",
-        "title": "Thánh Lễ tại nhà thờ Isahaya, Nagasaki",
-        "name": "Cha Tú CM",
-        "slug": "thanh-le-tai-nha-tho-isahaya-nagasaki-2025-10-19"
-    },
-    {
-        "date": "2025-10-19T14:00:00+09:00",
-        "time": "14:00",
-        "title": "Thánh Lễ tại nhà thờ Fushimi, Kyoto",
-        "name": "Cha Năng CMF",
-        "slug": "thanh-le-tai-nha-tho-fushimi-kyoto-2025-10-19"
-    },
-    {
-        "date": "2025-10-19T14:00:00+09:00",
-        "time": "14:00",
-        "title": "Thánh Lễ tại nhà thờ Urawa, Saitama",
-        "name": "Cha Nhã SJ",
-        "slug": "thanh-le-tai-nha-tho-urawa-saitama-2025-10-19"
-    },
-    {
-        "date": "2025-10-19T14:00:00+09:00",
-        "time": "14:00",
-        "title": "Thánh Lễ tại nhà thờ Hachioji, Tokyo",
-        "name": "Cha Tài SC",
-        "slug": "thanh-le-tai-nha-tho-hachioji-tokyo-2025-10-19"
-    },
-    {
-        "date": "2025-10-19T14:00:00+09:00",
-        "time": "14:00",
-        "title": "Thánh Lễ tại nhà thờ Hofu, Yamanashi-Ken",
-        "name": "Cha Quang Thuần",
-        "slug": "thanh-le-tai-nha-tho-hofu-yamanashi-ken-2025-10-19"
-    },
-    {
-        "date": "2025-10-19T14:00:00+09:00",
-        "time": "14:00",
-        "title": "Thánh Lễ tại bãi biển Aoshima, Miyazaki-Ken",
-        "name": "Cha Trinh",
-        "slug": "thanh-le-tai-bai-bien-aoshima-miyazaki-ken-2025-10-19"
-    },
-    {
-        "date": "2025-10-19T14:00:00+09:00",
-        "time": "14:00",
-        "title": "Thánh Lễ tại nhà thờ Izumi, Kagoshima-Ken",
-        "name": "Cha Quốc Tiến",
-        "slug": "thanh-le-tai-nha-tho-izumi-kagoshima-ken-2025-10-19"
-    },
-    {
-        "date": "2025-10-19T15:00:00+09:00",
-        "time": "15:00",
-        "title": "Thánh Lễ tại Trung Tâm Mục Vụ Okayama",
-        "name": "Cha Lợi",
-        "slug": "thanh-le-tai-trung-tam-muc-vu-okayama-2025-10-19"
-    },
-    {
-        "date": "2025-10-19T15:00:00+09:00",
-        "time": "15:00",
-        "title": "Thánh Lễ tại nhà thờ Ignatio, Yotsuya",
-        "name": "Cha Thế SJ",
-        "slug": "thanh-le-tai-nha-tho-ignatio-yotsuya-2025-10-19"
-    },
-    {
-        "date": "2025-10-19T15:00:00+09:00",
-        "time": "15:00",
-        "title": "Thánh Lễ tại nhà thờ Yukuhashi, Kitakyushu",
-        "name": "Thuyên CM",
-        "slug": "thanh-le-tai-nha-tho-yukuhashi-kitakyushu-2025-10-19"
-    },
-    {
-        "date": "2025-10-19T15:00:00+09:00",
-        "time": "15:00",
-        "title": "Thánh Lễ tại nhà thờ Kanazawa, Kanazawa-Ken",
-        "name": "Cha Vĩnh Toàn",
-        "slug": "thanh-le-tai-nha-tho-kanazawa-kanazawa-ken-2025-10-19"
-    },
-    {
-        "date": "2025-10-19T15:30:00+09:00",
-        "time": "15:30",
-        "title": "Thánh Lễ tại nhà thờ Chính Tòa Tamatsukuri, Osaka",
-        "name": "",
-        "slug": "thanh-le-tai-nha-tho-chinh-toa-tamatsukuri-osaka-2025-10-19"
-    },
-    {
-        "date": "2025-10-19T18:00:00+09:00",
-        "time": "18:00",
-        "title": "Thánh Lễ tại nhà thờ Mizumaki, Kitakyushu",
-        "name": "Cha Thuyên CM",
-        "slug": "thanh-le-tai-nha-tho-mizumaki-kitakyushu-2025-10-19"
-    },
-    {
-        "date": "2025-10-25T19:00:00+09:00",
-        "time": "19:00",
-        "title": "Thánh Lễ tại nhà thờ Nakatsu, Oita-Ken",
-        "name": "Cha Trinh",
-        "slug": "thanh-le-tai-nha-tho-nakatsu-oita-ken-2025-10-25"
-    },
-    {
-        "date": "2025-10-25T19:30:00+09:00",
-        "time": "19:30",
-        "title": "Thánh Lễ tại nhà thờ Ignatio, Yotsuya",
-        "name": "Cha Thế SJ",
-        "slug": "thanh-le-tai-nha-tho-ignatio-yotsuya-2025-10-25"
-    },
-    {
-        "date": "2025-10-25T19:30:00+09:00",
-        "time": "19:30",
-        "title": "Thánh Lễ tại nhà thờ Fushimi, Kyoto",
-        "name": "Cha Năng CMF",
-        "slug": "thanh-le-tai-nha-tho-fushimi-kyoto-2025-10-25"
-    },
-    {
-        "date": "2025-10-26T09:00:00+09:00",
-        "time": "09:00",
-        "title": "Thánh Lễ tại nhà thờ Takatori, Kobe",
-        "name": "",
-        "slug": "thanh-le-tai-nha-tho-takatori-kobe-2025-10-26"
-    },
-    {
-        "date": "2025-10-26T11:00:00+09:00",
-        "time": "11:00",
-        "title": "Thánh Lễ tại nhà thờ Mitakabara, Hamamatsu",
-        "name": "",
-        "slug": "thanh-le-tai-nha-tho-mitakabara-hamamatsu-2025-10-26"
-    },
-    {
-        "date": "2025-10-26T11:00:00+09:00",
-        "time": "11:00",
-        "title": "Lễ hội của Giáo Xứ Ignatio, Yotsuya. Không có thánh lễ tiếng Việt",
-        "name": "",
-        "slug": "le-hoi-cua-giao-xu-ignatio-yotsuya-khong-co-thanh-le-tieng-viet-2025-10-26"
-    },
-    {
-        "date": "2025-10-26T12:00:00+09:00",
-        "time": "12:00",
-        "title": "Thánh Lễ tại nhà thờ Komaki, Aichi-Ken",
-        "name": "Cha Điềm SVD",
-        "slug": "thanh-le-tai-nha-tho-komaki-aichi-ken-2025-10-26"
-    },
-    {
-        "date": "2025-10-26T12:00:00+09:00",
-        "time": "12:00",
-        "title": "Thánh Lễ tại nhà thờ Hon-Atsugi, Kanagawa-Ken",
-        "name": "Cha Sơn",
-        "slug": "thanh-le-tai-nha-tho-hon-atsugi-kanagawa-ken-2025-10-26"
-    },
-    {
-        "date": "2025-10-26T12:00:00+09:00",
-        "time": "12:00",
-        "title": "Thánh Lễ tại nhà thờ chính tòa Oita",
-        "name": "Cha Trinh",
-        "slug": "thanh-le-tai-nha-tho-chinh-toa-oita-2025-10-26"
-    },
-    {
-        "date": "2025-10-26T13:00:00+09:00",
-        "time": "13:00",
-        "title": "Thánh Lễ tại nhà thờ Chính Tòa Kagoshima",
-        "name": "Cha Minh Anh",
-        "slug": "thanh-le-tai-nha-tho-chinh-toa-kagoshima-2025-10-26"
-    },
-    {
-        "date": "2025-10-26T13:30:00+09:00",
-        "time": "13:30",
-        "title": "Thánh Lễ tại nhà thờ Daimyo, Fukuoka",
-        "name": "Cha Thuyên CM",
-        "slug": "thanh-le-tai-nha-tho-daimyo-fukuoka-2025-10-26"
-    },
-    {
-        "date": "2025-10-26T14:00:00+09:00",
-        "time": "14:00",
-        "title": "Thánh Lễ tại nhà thờ Imabari, Ehime-Ken",
-        "name": "Cha Thành",
-        "slug": "thanh-le-tai-nha-tho-imabari-ehime-ken-2025-10-26"
-    },
-    {
-        "date": "2025-10-26T14:00:00+09:00",
-        "time": "14:00",
-        "title": "Thánh Lễ tại nhà thờ Nanzan, Nagoya",
-        "name": "Cha Tường SVD",
-        "slug": "thanh-le-tai-nha-tho-nanzan-nagoya-2025-10-26"
-    },
-    {
-        "date": "2025-10-26T14:00:00+09:00",
-        "time": "14:00",
-        "title": "Thánh Lễ tại nhà thờ Tawaramachi, Nagasaki",
-        "name": "Cha Tú CM",
-        "slug": "thanh-le-tai-nha-tho-tawaramachi-nagasaki-2025-10-26"
-    },
-    {
-        "date": "2025-10-26T14:00:00+09:00",
-        "time": "14:00",
-        "title": "Thánh Lễ tại nhà thờ Chính Tòa Sendai",
-        "name": "Cha Dominic Trí Sch.P.",
-        "slug": "thanh-le-tai-nha-tho-chinh-toa-sendai-2025-10-26"
-    },
-    {
-        "date": "2025-10-26T14:00:00+09:00",
-        "time": "14:00",
-        "title": "Thánh Lễ tại nhà thờ Fukuchiyama, Kyoto",
-        "name": "Cha Năng CMF",
-        "slug": "thanh-le-tai-nha-tho-fukuchiyama-kyoto-2025-10-26"
-    },
-    {
-        "date": "2025-10-26T14:00:00+09:00",
-        "time": "14:00",
-        "title": "Thánh Lễ tại nhà thờ Kamifukuoka, Saitama-Ken",
-        "name": "Cha Hiến",
-        "slug": "thanh-le-tai-nha-tho-kamifukuoka-saitama-ken-2025-10-26"
-    },
-    {
-        "date": "2025-10-26T14:00:00+09:00",
-        "time": "14:00",
-        "title": "Thánh Lễ tại nhà thờ Chofu, Tokyo",
-        "name": "Cha Lập SDB",
-        "slug": "thanh-le-tai-nha-tho-chofu-tokyo-2025-10-26"
-    },
-    {
-        "date": "2025-10-26T14:00:00+09:00",
-        "time": "14:00",
-        "title": "Thánh Lễ tại nhà thờ Sendai, Kagoshima-Ken",
-        "name": "Cha Quốc Tiến",
-        "slug": "thanh-le-tai-nha-tho-sendai-kagoshima-ken-2025-10-26"
-    },
-    {
-        "date": "2025-10-26T14:00:00+09:00",
-        "time": "14:00",
-        "title": "Thánh Lễ tại nhà thờ Shibushi, Kagoshima-Ken",
-        "name": "Cha Hồng Tâm",
-        "slug": "thanh-le-tai-nha-tho-shibushi-kagoshima-ken-2025-10-26"
-    },
-    {
-        "date": "2025-10-26T14:00:00+09:00",
-        "time": "14:00",
-        "title": "Thánh Lễ tại nhà thờ Urawa, Saitama-Ken",
-        "name": "Cha Thủy SDB",
-        "slug": "thanh-le-tai-nha-tho-urawa-saitama-ken-2025-10-26"
-    },
-    {
-        "date": "2025-10-26T14:30:00+09:00",
-        "time": "14:30",
-        "title": "Thánh Lễ tại nhà thờ Fukui, Fukui-Ken",
-        "name": "Cha Toàn MSC",
-        "slug": "thanh-le-tai-nha-tho-fukui-fukui-ken-2025-10-26"
-    },
-    {
-        "date": "2025-10-26T15:00:00+09:00",
-        "time": "15:00",
-        "title": "Thánh Lễ tại nhà thờ Nakatsu, Oita-Ken",
-        "name": "Cha Trinh",
-        "slug": "thanh-le-tai-nha-tho-nakatsu-oita-ken-2025-10-26"
-    },
-    {
-        "date": "2025-10-26T15:30:00+09:00",
-        "time": "15:30",
-        "title": "Thánh Lễ tại nhà chung Thánh Tâm Chúa Giêsu Okayama",
-        "name": "Cha Lợi",
-        "slug": "thanh-le-tai-nha-chung-thanh-tam-chua-giesu-okayama-2025-10-26"
-    },
-    {
-        "date": "2025-10-26T15:30:00+09:00",
-        "time": "15:30",
-        "title": "Thánh Lễ tại nhà thờ Handa, Aichi-Ken",
-        "name": "Cha Điềm SVD",
-        "slug": "thanh-le-tai-nha-tho-handa-aichi-ken-2025-10-26"
-    },
-    {
-        "date": "2025-10-26T15:30:00+09:00",
-        "time": "15:30",
-        "title": "Thánh Lễ tại nhà thờ Chính Tòa Tamatsukuri, Osaka",
-        "name": "",
-        "slug": "thanh-le-tai-nha-tho-chinh-toa-tamatsukuri-osaka-2025-10-26"
-    },
-    {
-        "date": "2025-10-26T16:00:00+09:00",
-        "time": "16:00",
-        "title": "Thánh Lễ tại nhà thờ Sueyoshicho",
-        "name": "Cha Tú CM",
-        "slug": "thanh-le-tai-nha-tho-sueyoshicho-2025-10-26"
-    },
-    {
-        "date": "2025-10-27T18:30:00+09:00",
-        "time": "18:30",
-        "title": "Thánh Lễ tại nhà thờ Akune, Kagoshima-Ken",
-        "name": "Cha Minh Anh",
-        "slug": "thanh-le-tai-nha-tho-akune-kagoshima-ken-2025-10-27"
-    },
-    {
         "date": "2025-11-01T19:00:00+09:00",
         "time": "19:00",
         "title": "Thánh Lễ tại nhà thờ Nakatsu, Oita-Ken",
@@ -665,6 +56,13 @@
         "slug": "thanh-le-tai-nha-tho-kokura-fukuoka-ken-2025-11-02"
     },
     {
+        "date": "2025-11-02T13:00:00+09:00",
+        "time": "13:00",
+        "title": "Thánh Lễ tại nhà thờ Taniyama, Kagoshima-Ken",
+        "name": "Cha Minh Anh",
+        "slug": "thanh-le-tai-nha-tho-taniyama-kagoshima-ken-2025-11-02"
+    },
+    {
         "date": "2025-11-02T14:00:00+09:00",
         "time": "14:00",
         "title": "Thánh Lễ tại nhà thờ Kasukabe, Saitama-Ken",
@@ -677,13 +75,6 @@
         "title": "Thánh Lễ tại nhà thờ Kusatsu, Kyoto",
         "name": "Cha Năng CMF",
         "slug": "thanh-le-tai-nha-tho-kusatsu-kyoto-2025-11-02"
-    },
-    {
-        "date": "2025-11-02T14:00:00+09:00",
-        "time": "14:00",
-        "title": "Thánh Lễ tại nhà thờ Taniyama, Kagoshima-Ken",
-        "name": "Cha Minh Anh",
-        "slug": "thanh-le-tai-nha-tho-taniyama-kagoshima-ken-2025-11-02"
     },
     {
         "date": "2025-11-02T15:00:00+09:00",
@@ -714,17 +105,647 @@
         "slug": "thanh-le-tai-nha-tho-kurume-2025-11-02"
     },
     {
-        "date": "2025-11-02T15:30:00+09:00",
-        "time": "15:30",
-        "title": "Thánh Lễ tại nhà thờ Chính Tòa Tamatsukuri, Osaka",
-        "name": "",
-        "slug": "thanh-le-tai-nha-tho-chinh-toa-tamatsukuri-osaka-2025-11-02"
-    },
-    {
         "date": "2025-11-02T16:00:00+09:00",
         "time": "16:00",
         "title": "Thánh Lễ tại nhà thờ Fujisawa, Kanagawa-Ken",
         "name": "Cha Sơn",
         "slug": "thanh-le-tai-nha-tho-fujisawa-kanagawa-ken-2025-11-02"
+    },
+    {
+        "date": "2025-11-02T19:00:00+09:00",
+        "time": "19:00",
+        "title": "Thánh Lễ tại nhà thờ Nakatsu, Oita-Ken",
+        "name": "Cha Trinh",
+        "slug": "thanh-le-tai-nha-tho-nakatsu-oita-ken-2025-11-02"
+    },
+    {
+        "date": "2025-11-03T14:00:00+09:00",
+        "time": "14:00",
+        "title": "Thánh Lễ tại nhà thờ Nobeoka, Miyazaki-Ken",
+        "name": "Cha Trinh",
+        "slug": "thanh-le-tai-nha-tho-nobeoka-miyazaki-ken-2025-11-03"
+    },
+    {
+        "date": "2025-11-03T18:30:00+09:00",
+        "time": "18:30",
+        "title": "Thánh Lễ tại nhà thờ Akune, Kagoshima",
+        "name": "Cha Minh Anh",
+        "slug": "thanh-le-tai-nha-tho-akune-kagoshima-2025-11-03"
+    },
+    {
+        "date": "2025-11-08T16:00:00+09:00",
+        "time": "16:00",
+        "title": "Thánh Lễ tại nhà thờ Yakushima, Kagoshima-Ken",
+        "name": "Cha Minh Anh",
+        "slug": "thanh-le-tai-nha-tho-yakushima-kagoshima-ken-2025-11-08"
+    },
+    {
+        "date": "2025-11-08T19:00:00+09:00",
+        "time": "19:00",
+        "title": "Thánh Lễ tại nhà thờ Nakatsu, Oita-Ken",
+        "name": "Cha Trinh",
+        "slug": "thanh-le-tai-nha-tho-nakatsu-oita-ken-2025-11-08"
+    },
+    {
+        "date": "2025-11-08T19:30:00+09:00",
+        "time": "19:30",
+        "title": "Thánh Lễ tại nhà thờ Fushimi, Kyoto",
+        "name": "Cha Năng CMF",
+        "slug": "thanh-le-tai-nha-tho-fushimi-kyoto-2025-11-08"
+    },
+    {
+        "date": "2025-11-08T19:30:00+09:00",
+        "time": "19:30",
+        "title": "Thánh Lễ tại nhà thờ Ignatio, Yotsuya",
+        "name": "Cha Thế SJ",
+        "slug": "thanh-le-tai-nha-tho-ignatio-yotsuya-2025-11-08"
+    },
+    {
+        "date": "2025-11-09T11:30:00+09:00",
+        "time": "11:30",
+        "title": "Thánh Lễ tại nhà thờ Seto, Aichi-Ken",
+        "name": "Cha Điềm SVD",
+        "slug": "thanh-le-tai-nha-tho-seto-aichi-ken-2025-11-09"
+    },
+    {
+        "date": "2025-11-09T12:00:00+09:00",
+        "time": "12:00",
+        "title": "Thánh Lễ tại nhà thờ Yamato, Kanagawa-Ken",
+        "name": "Cha Hiến",
+        "slug": "thanh-le-tai-nha-tho-yamato-kanagawa-ken-2025-11-09"
+    },
+    {
+        "date": "2025-11-09T13:00:00+09:00",
+        "time": "13:00",
+        "title": "Thánh Lễ tại nhà thờ Hanamaki, Iwate-Ken",
+        "name": "Cha Trí Sch.P.",
+        "slug": "thanh-le-tai-nha-tho-hanamaki-iwate-ken-2025-11-09"
+    },
+    {
+        "date": "2025-11-09T13:00:00+09:00",
+        "time": "13:00",
+        "title": "Thánh Lễ tại nhà thờ Seishin Toyota, Aichi-Ken",
+        "name": "Cha Tường SVD",
+        "slug": "thanh-le-tai-nha-tho-seishin-toyota-aichi-ken-2025-11-09"
+    },
+    {
+        "date": "2025-11-09T13:30:00+09:00",
+        "time": "13:30",
+        "title": "Thánh Lễ tại nhà thờ Daimyo, Fukuoka",
+        "name": "Cha Tú CM",
+        "slug": "thanh-le-tai-nha-tho-daimyo-fukuoka-2025-11-09"
+    },
+    {
+        "date": "2025-11-09T13:30:00+09:00",
+        "time": "13:30",
+        "title": "Thánh Lễ tại nhà thờ Higashimatstuyama, Saitama-Ken",
+        "name": "Cha Ân SJ",
+        "slug": "thanh-le-tai-nha-tho-higashimatstuyama-saitama-ken-2025-11-09"
+    },
+    {
+        "date": "2025-11-09T14:00:00+09:00",
+        "time": "14:00",
+        "title": "Thánh Lễ tại nhà thờ Atsugi, Kanagawa-Ken",
+        "name": "Cha Sơn",
+        "slug": "thanh-le-tai-nha-tho-atsugi-kanagawa-ken-2025-11-09"
+    },
+    {
+        "date": "2025-11-09T14:00:00+09:00",
+        "time": "14:00",
+        "title": "Thánh Lễ tại nhà thờ Ogaki, Gifu-Ken",
+        "name": "Cha Vĩnh Toàn",
+        "slug": "thanh-le-tai-nha-tho-ogaki-gifu-ken-2025-11-09"
+    },
+    {
+        "date": "2025-11-09T14:00:00+09:00",
+        "time": "14:00",
+        "title": "Thánh Lễ tại nhà thờ Tetori, Kumamoto-Ken",
+        "name": "Cha Thuyên CM",
+        "slug": "thanh-le-tai-nha-tho-tetori-kumamoto-ken-2025-11-09"
+    },
+    {
+        "date": "2025-11-09T15:00:00+09:00",
+        "time": "15:00",
+        "title": "Thánh Lễ tại nhà thờ Ignatio,Yotsuya",
+        "name": "Cha Nghiệp, Cha Nhã, Cha Hiến",
+        "slug": "thanh-le-tai-nha-tho-ignatio-yotsuya-2025-11-09"
+    },
+    {
+        "date": "2025-11-09T15:00:00+09:00",
+        "time": "15:00",
+        "title": "Thánh Lễ tại nhà thờ Kichijoji, Tokyo",
+        "name": "Cha Hy SVD",
+        "slug": "thanh-le-tai-nha-tho-kichijoji-tokyo-2025-11-09"
+    },
+    {
+        "date": "2025-11-09T15:00:00+09:00",
+        "time": "15:00",
+        "title": "Thánh Lễ tại nhà thờ Yamato-Takada, Nara-Ken",
+        "name": "Cha Năng CMF",
+        "slug": "thanh-le-tai-nha-tho-yamato-takada-nara-ken-2025-11-09"
+    },
+    {
+        "date": "2025-11-09T15:30:00+09:00",
+        "time": "15:30",
+        "title": "Thánh Lễ tại nhà thờ Chính Tòa Tamatsukuri, Osaka",
+        "name": "",
+        "slug": "thanh-le-tai-nha-tho-chinh-toa-tamatsukuri-osaka-2025-11-09"
+    },
+    {
+        "date": "2025-11-09T16:00:00+09:00",
+        "time": "16:00",
+        "title": "Thánh Lễ tại nhà thờ Narashino, Chiba-Ken",
+        "name": "Cha Tiến",
+        "slug": "thanh-le-tai-nha-tho-narashino-chiba-ken-2025-11-09"
+    },
+    {
+        "date": "2025-11-15T19:00:00+09:00",
+        "time": "19:00",
+        "title": "Thánh Lễ tại nhà thờ Nakatsu, Oita-Ken",
+        "name": "Cha Trinh",
+        "slug": "thanh-le-tai-nha-tho-nakatsu-oita-ken-2025-11-15"
+    },
+    {
+        "date": "2025-11-15T19:30:00+09:00",
+        "time": "19:30",
+        "title": "Thánh Lễ tại nhà thờ Ignatio, Yotsuya",
+        "name": "Cha Nhã SJ",
+        "slug": "thanh-le-tai-nha-tho-ignatio-yotsuya-2025-11-15"
+    },
+    {
+        "date": "2025-11-16T10:30:00+09:00",
+        "time": "10:30",
+        "title": "Thánh Lễ tại nhà thờ Kawaguchi, Saitama-Ken",
+        "name": "Cha Nhã SJ",
+        "slug": "thanh-le-tai-nha-tho-kawaguchi-saitama-ken-2025-11-16"
+    },
+    {
+        "date": "2025-11-16T12:00:00+09:00",
+        "time": "12:00",
+        "title": "Thánh Lễ tại nhà thờ Tajimi",
+        "name": "Cha Tường SVD",
+        "slug": "thanh-le-tai-nha-tho-tajimi-2025-11-16"
+    },
+    {
+        "date": "2025-11-16T12:00:00+09:00",
+        "time": "12:00",
+        "title": "Thánh Lễ tại nhà thờ Toyama, Toyama-Ken",
+        "name": "Cha Hiến",
+        "slug": "thanh-le-tai-nha-tho-toyama-toyama-ken-2025-11-16"
+    },
+    {
+        "date": "2025-11-16T13:00:00+09:00",
+        "time": "13:00",
+        "title": "Thánh Lễ tại nhà thờ Kadoma, Osaka",
+        "name": "Cha Ý CMF",
+        "slug": "thanh-le-tai-nha-tho-kadoma-osaka-2025-11-16"
+    },
+    {
+        "date": "2025-11-16T13:00:00+09:00",
+        "time": "13:00",
+        "title": "Thánh Lễ tại nhà thờ Honcho, Aomori-Ken",
+        "name": "Cha Trí Sch.P.",
+        "slug": "thanh-le-tai-nha-tho-honcho-aomori-ken-2025-11-16"
+    },
+    {
+        "date": "2025-11-16T13:00:00+09:00",
+        "time": "13:00",
+        "title": "Thánh Lễ tại nhà thờ Miyakonojo, Miyazaki-Ken",
+        "name": "Cha Trinh",
+        "slug": "thanh-le-tai-nha-tho-miyakonojo-miyazaki-ken-2025-11-16"
+    },
+    {
+        "date": "2025-11-16T13:00:00+09:00",
+        "time": "13:00",
+        "title": "Thánh Lễ tại nhà thờ Anjo, Aichi-Ken",
+        "name": "Cha Điềm SVD",
+        "slug": "thanh-le-tai-nha-tho-anjo-aichi-ken-2025-11-16"
+    },
+    {
+        "date": "2025-11-16T13:00:00+09:00",
+        "time": "13:00",
+        "title": "Thánh Lễ tại nhà thờ Kawagoe, Saitama-Ken",
+        "name": "Cha Tín SC",
+        "slug": "thanh-le-tai-nha-tho-kawagoe-saitama-ken-2025-11-16"
+    },
+    {
+        "date": "2025-11-16T14:00:00+09:00",
+        "time": "14:00",
+        "title": "Thánh Lễ tại nhà thờ Isahaya, Nagasaki",
+        "name": "Cha Tú CM",
+        "slug": "thanh-le-tai-nha-tho-isahaya-nagasaki-2025-11-16"
+    },
+    {
+        "date": "2025-11-16T14:00:00+09:00",
+        "time": "14:00",
+        "title": "Thánh Lễ tại nhà thờ Fushimi, Kyoto",
+        "name": "Cha Năng CMF",
+        "slug": "thanh-le-tai-nha-tho-fushimi-kyoto-2025-11-16"
+    },
+    {
+        "date": "2025-11-16T14:00:00+09:00",
+        "time": "14:00",
+        "title": "Thánh Lễ tại nhà thờ Hachioji, Tokyo",
+        "name": "Cha Tài SC",
+        "slug": "thanh-le-tai-nha-tho-hachioji-tokyo-2025-11-16"
+    },
+    {
+        "date": "2025-11-16T14:00:00+09:00",
+        "time": "14:00",
+        "title": "Thánh Lễ tại nhà thờ Hofu, Yamanashi-Ken",
+        "name": "Cha Quang Thuần",
+        "slug": "thanh-le-tai-nha-tho-hofu-yamanashi-ken-2025-11-16"
+    },
+    {
+        "date": "2025-11-16T14:00:00+09:00",
+        "time": "14:00",
+        "title": "Thánh Lễ tại nhà thờ Izumi, Kagoshima-Ken",
+        "name": "Cha Quốc Tiến",
+        "slug": "thanh-le-tai-nha-tho-izumi-kagoshima-ken-2025-11-16"
+    },
+    {
+        "date": "2025-11-16T15:00:00+09:00",
+        "time": "15:00",
+        "title": "Thánh Lễ tại Trung Tâm Mục Vụ Okayama",
+        "name": "Cha Lợi",
+        "slug": "thanh-le-tai-trung-tam-muc-vu-okayama-2025-11-16"
+    },
+    {
+        "date": "2025-11-16T15:00:00+09:00",
+        "time": "15:00",
+        "title": "Thánh Lễ tại nhà thờ Yukuhashi, Kitakyushu",
+        "name": "Thuyên CM",
+        "slug": "thanh-le-tai-nha-tho-yukuhashi-kitakyushu-2025-11-16"
+    },
+    {
+        "date": "2025-11-16T15:00:00+09:00",
+        "time": "15:00",
+        "title": "Thánh Lễ tại nhà thờ Kanazawa, Kanazawa-Ken",
+        "name": "Cha Hiến",
+        "slug": "thanh-le-tai-nha-tho-kanazawa-kanazawa-ken-2025-11-16"
+    },
+    {
+        "date": "2025-11-16T15:30:00+09:00",
+        "time": "15:30",
+        "title": "Thánh Lễ tại nhà thờ Chính Tòa Tamatsukuri, Osaka",
+        "name": "",
+        "slug": "thanh-le-tai-nha-tho-chinh-toa-tamatsukuri-osaka-2025-11-16"
+    },
+    {
+        "date": "2025-11-16T17:00:00+09:00",
+        "time": "17:00",
+        "title": "Thánh Lễ tại nhà thờ Chính Tòa Tokyo",
+        "name": "Đức Cha Phụ Tá",
+        "slug": "thanh-le-tai-nha-tho-chinh-toa-tokyo-2025-11-16"
+    },
+    {
+        "date": "2025-11-16T18:00:00+09:00",
+        "time": "18:00",
+        "title": "Thánh Lễ tại nhà thờ Mizumaki, Kitakyushu",
+        "name": "Cha Thuyên CM",
+        "slug": "thanh-le-tai-nha-tho-mizumaki-kitakyushu-2025-11-16"
+    },
+    {
+        "date": "2025-11-22T19:00:00+09:00",
+        "time": "19:00",
+        "title": "Thánh Lễ tại nhà thờ Nakatsu, Oita-Ken",
+        "name": "Cha Trinh",
+        "slug": "thanh-le-tai-nha-tho-nakatsu-oita-ken-2025-11-22"
+    },
+    {
+        "date": "2025-11-22T19:30:00+09:00",
+        "time": "19:30",
+        "title": "Thánh Lễ tại nhà thờ Ignatio, Yotsuya",
+        "name": "Cha Thế SJ",
+        "slug": "thanh-le-tai-nha-tho-ignatio-yotsuya-2025-11-22"
+    },
+    {
+        "date": "2025-11-22T19:30:00+09:00",
+        "time": "19:30",
+        "title": "Thánh Lễ tại nhà thờ Fushimi, Kyoto",
+        "name": "Cha Năng CMF",
+        "slug": "thanh-le-tai-nha-tho-fushimi-kyoto-2025-11-22"
+    },
+    {
+        "date": "2025-11-23T09:00:00+09:00",
+        "time": "09:00",
+        "title": "Thánh Lễ tại nhà thờ Takatori, Kobe",
+        "name": "",
+        "slug": "thanh-le-tai-nha-tho-takatori-kobe-2025-11-23"
+    },
+    {
+        "date": "2025-11-23T11:00:00+09:00",
+        "time": "11:00",
+        "title": "Thánh Lễ tại nhà thờ Mitakabara, Hamamatsu",
+        "name": "",
+        "slug": "thanh-le-tai-nha-tho-mitakabara-hamamatsu-2025-11-23"
+    },
+    {
+        "date": "2025-11-23T12:00:00+09:00",
+        "time": "12:00",
+        "title": "Thánh Lễ tại nhà thờ Komaki, Aichi-Ken",
+        "name": "Cha Điềm SVD",
+        "slug": "thanh-le-tai-nha-tho-komaki-aichi-ken-2025-11-23"
+    },
+    {
+        "date": "2025-11-23T12:00:00+09:00",
+        "time": "12:00",
+        "title": "Thánh Lễ tại nhà thờ Hon-Atsugi, Kanagawa-Ken",
+        "name": "Cha Sơn",
+        "slug": "thanh-le-tai-nha-tho-hon-atsugi-kanagawa-ken-2025-11-23"
+    },
+    {
+        "date": "2025-11-23T12:00:00+09:00",
+        "time": "12:00",
+        "title": "Thánh Lễ tại nhà thờ chính tòa Oita",
+        "name": "Cha Trinh",
+        "slug": "thanh-le-tai-nha-tho-chinh-toa-oita-2025-11-23"
+    },
+    {
+        "date": "2025-11-23T13:00:00+09:00",
+        "time": "13:00",
+        "title": "Thánh Lễ tại nhà thờ Chính Tòa Kagoshima",
+        "name": "Cha Minh Anh",
+        "slug": "thanh-le-tai-nha-tho-chinh-toa-kagoshima-2025-11-23"
+    },
+    {
+        "date": "2025-11-23T13:30:00+09:00",
+        "time": "13:30",
+        "title": "Thánh Lễ tại nhà thờ Daimyo, Fukuoka",
+        "name": "Cha Thuyên CM",
+        "slug": "thanh-le-tai-nha-tho-daimyo-fukuoka-2025-11-23"
+    },
+    {
+        "date": "2025-11-23T14:00:00+09:00",
+        "time": "14:00",
+        "title": "Thánh Lễ tại nhà thờ Imabari, Ehime-Ken",
+        "name": "Cha Thành",
+        "slug": "thanh-le-tai-nha-tho-imabari-ehime-ken-2025-11-23"
+    },
+    {
+        "date": "2025-11-23T14:00:00+09:00",
+        "time": "14:00",
+        "title": "Thánh Lễ tại nhà thờ Nanzan, Nagoya",
+        "name": "Cha Tường SVD",
+        "slug": "thanh-le-tai-nha-tho-nanzan-nagoya-2025-11-23"
+    },
+    {
+        "date": "2025-11-23T14:00:00+09:00",
+        "time": "14:00",
+        "title": "Thánh Lễ tại nhà thờ Tawaramachi, Nagasaki",
+        "name": "Cha Tú CM",
+        "slug": "thanh-le-tai-nha-tho-tawaramachi-nagasaki-2025-11-23"
+    },
+    {
+        "date": "2025-11-23T14:00:00+09:00",
+        "time": "14:00",
+        "title": "Thánh Lễ tại nhà thờ Chính Tòa Sendai",
+        "name": "Cha Dominic Trí Sch.P.",
+        "slug": "thanh-le-tai-nha-tho-chinh-toa-sendai-2025-11-23"
+    },
+    {
+        "date": "2025-11-23T14:00:00+09:00",
+        "time": "14:00",
+        "title": "Thánh Lễ tại nhà thờ Fukuchiyama, Kyoto",
+        "name": "Cha Năng CMF",
+        "slug": "thanh-le-tai-nha-tho-fukuchiyama-kyoto-2025-11-23"
+    },
+    {
+        "date": "2025-11-23T14:00:00+09:00",
+        "time": "14:00",
+        "title": "Thánh Lễ tại nhà thờ Kamifukuoka, Saitama-Ken",
+        "name": "Cha Hiến",
+        "slug": "thanh-le-tai-nha-tho-kamifukuoka-saitama-ken-2025-11-23"
+    },
+    {
+        "date": "2025-11-23T14:00:00+09:00",
+        "time": "14:00",
+        "title": "Thánh Lễ tại nhà thờ Chofu, Tokyo",
+        "name": "Cha Lập SDB",
+        "slug": "thanh-le-tai-nha-tho-chofu-tokyo-2025-11-23"
+    },
+    {
+        "date": "2025-11-23T14:00:00+09:00",
+        "time": "14:00",
+        "title": "Thánh Lễ tại nhà thờ Shibushi, Kagoshima-Ken",
+        "name": "Cha Hồng Tâm",
+        "slug": "thanh-le-tai-nha-tho-shibushi-kagoshima-ken-2025-11-23"
+    },
+    {
+        "date": "2025-11-23T14:00:00+09:00",
+        "time": "14:00",
+        "title": "Thánh Lễ tại nhà thờ Urawa, Saitama-Ken",
+        "name": "Cha Thế SJ",
+        "slug": "thanh-le-tai-nha-tho-urawa-saitama-ken-2025-11-23"
+    },
+    {
+        "date": "2025-11-23T14:30:00+09:00",
+        "time": "14:30",
+        "title": "Thánh Lễ tại nhà thờ Fukui, Fukui-Ken",
+        "name": "Cha Toàn MSC",
+        "slug": "thanh-le-tai-nha-tho-fukui-fukui-ken-2025-11-23"
+    },
+    {
+        "date": "2025-11-23T15:00:00+09:00",
+        "time": "15:00",
+        "title": "Thánh Lễ tại nhà thờ Ignatio, Yotsuya",
+        "name": "Cha Nhã SJ",
+        "slug": "thanh-le-tai-nha-tho-ignatio-yotsuya-2025-11-23"
+    },
+    {
+        "date": "2025-11-23T15:30:00+09:00",
+        "time": "15:30",
+        "title": "Thánh Lễ tại nhà chung Thánh Tâm Chúa Giêsu Okayama",
+        "name": "Cha Lợi",
+        "slug": "thanh-le-tai-nha-chung-thanh-tam-chua-giesu-okayama-2025-11-23"
+    },
+    {
+        "date": "2025-11-23T15:30:00+09:00",
+        "time": "15:30",
+        "title": "Thánh Lễ tại nhà thờ Handa, Aichi-Ken",
+        "name": "Cha Điềm SVD",
+        "slug": "thanh-le-tai-nha-tho-handa-aichi-ken-2025-11-23"
+    },
+    {
+        "date": "2025-11-23T15:30:00+09:00",
+        "time": "15:30",
+        "title": "Thánh Lễ tại nhà thờ Chính Tòa Tamatsukuri, Osaka",
+        "name": "",
+        "slug": "thanh-le-tai-nha-tho-chinh-toa-tamatsukuri-osaka-2025-11-23"
+    },
+    {
+        "date": "2025-11-23T16:00:00+09:00",
+        "time": "16:00",
+        "title": "Thánh Lễ tại nhà thờ Sueyoshicho",
+        "name": "Cha Tú CM",
+        "slug": "thanh-le-tai-nha-tho-sueyoshicho-2025-11-23"
+    },
+    {
+        "date": "2025-11-23T16:00:00+09:00",
+        "time": "16:00",
+        "title": "Thánh Lễ tại nhà thờ Kasukabe, Saitama-Ken",
+        "name": "Cha Trinh",
+        "slug": "thanh-le-tai-nha-tho-kasukabe-saitama-ken-2025-11-23"
+    },
+    {
+        "date": "2025-11-23T16:00:00+09:00",
+        "time": "16:00",
+        "title": "Thánh Lễ tại nhà thờ Fujisawa, Kanagawa-Ken",
+        "name": "Cha Sơn",
+        "slug": "thanh-le-tai-nha-tho-fujisawa-kanagawa-ken-2025-11-23"
+    },
+    {
+        "date": "2025-11-23T17:00:00+09:00",
+        "time": "17:00",
+        "title": "Thánh Lễ tại nhà thờ Asakusa, Tokyo",
+        "name": "Cha Nhã SJ",
+        "slug": "thanh-le-tai-nha-tho-asakusa-tokyo-2025-11-23"
+    },
+    {
+        "date": "2025-11-24T18:30:00+09:00",
+        "time": "18:30",
+        "title": "Thánh Lễ tại nhà thờ Akune, Kagoshima",
+        "name": "Cha Minh Anh",
+        "slug": "thanh-le-tai-nha-tho-akune-kagoshima-2025-11-24"
+    },
+    {
+        "date": "2025-11-29T19:00:00+09:00",
+        "time": "19:00",
+        "title": "Thánh Lễ tại nhà thờ Nakatsu, Oita-Ken",
+        "name": "Cha Trinh",
+        "slug": "thanh-le-tai-nha-tho-nakatsu-oita-ken-2025-11-29"
+    },
+    {
+        "date": "2025-11-29T19:30:00+09:00",
+        "time": "19:30",
+        "title": "Thánh Lễ tại nhà thờ Ignatio, Yotsuya",
+        "name": "Cha Thế SJ",
+        "slug": "thanh-le-tai-nha-tho-ignatio-yotsuya-2025-11-29"
+    },
+    {
+        "date": "2025-11-30T11:00:00+09:00",
+        "time": "11:00",
+        "title": "Thánh Lễ tại nhà thờ Kamata",
+        "name": "Cha Hiến",
+        "slug": "thanh-le-tai-nha-tho-kamata-2025-11-30"
+    },
+    {
+        "date": "2025-11-30T15:00:00+09:00",
+        "time": "15:00",
+        "title": "Thánh Lễ tại nhà thờ Ignatio, Yotsuya",
+        "name": "Cha Năng, Cha Nhã SJ, Cha Hiến",
+        "slug": "thanh-le-tai-nha-tho-ignatio-yotsuya-2025-11-30"
+    },
+    {
+        "date": "2025-12-06T19:30:00+09:00",
+        "time": "19:30",
+        "title": "Thánh Lễ tại nhà thờ Ignatio, Yotsuya",
+        "name": "Cha Thế SJ",
+        "slug": "thanh-le-tai-nha-tho-ignatio-yotsuya-2025-12-06"
+    },
+    {
+        "date": "2025-12-07T10:00:00+09:00",
+        "time": "10:00",
+        "title": "Tĩnh tâm và thánh lễ tại nhà thờ Kariya",
+        "name": "Cha Hiến",
+        "slug": "tinh-tam-va-thanh-le-tai-nha-tho-kariya-2025-12-07"
+    },
+    {
+        "date": "2025-12-07T11:00:00+09:00",
+        "time": "11:00",
+        "title": "Thánh Lễ tại Nguyện Xá Chofu, Tokyo",
+        "name": "Cha Lập SDB",
+        "slug": "thanh-le-tai-nguyen-xa-chofu-tokyo-2025-12-07"
+    },
+    {
+        "date": "2025-12-07T11:30:00+09:00",
+        "time": "11:30",
+        "title": "Thánh Lễ tại nhà thờ Ota, Gunma-Ken",
+        "name": "Cha Quốc Định",
+        "slug": "thanh-le-tai-nha-tho-ota-gunma-ken-2025-12-07"
+    },
+    {
+        "date": "2025-12-07T11:30:00+09:00",
+        "time": "11:30",
+        "title": "Thánh Lễ tại nhà thờ Nodamachi, Fukushima-Ken",
+        "name": "Cha Trí Sch.P.",
+        "slug": "thanh-le-tai-nha-tho-nodamachi-fukushima-ken-2025-12-07"
+    },
+    {
+        "date": "2025-12-07T12:00:00+09:00",
+        "time": "12:00",
+        "title": "Thánh Lễ tại nhà thờ Kariya, Aichi-Ken",
+        "name": "Cha Tường SVD",
+        "slug": "thanh-le-tai-nha-tho-kariya-aichi-ken-2025-12-07"
+    },
+    {
+        "date": "2025-12-07T13:00:00+09:00",
+        "time": "13:00",
+        "title": "Thánh Lễ tại nhà thờ chính tòa Oita",
+        "name": "Cha Trinh",
+        "slug": "thanh-le-tai-nha-tho-chinh-toa-oita-2025-12-07"
+    },
+    {
+        "date": "2025-12-07T13:00:00+09:00",
+        "time": "13:00",
+        "title": "Thánh Lễ tại nhà thờ Ichinomiya, Aichi-Ken",
+        "name": "Cha Điềm SVD",
+        "slug": "thanh-le-tai-nha-tho-ichinomiya-aichi-ken-2025-12-07"
+    },
+    {
+        "date": "2025-12-07T14:00:00+09:00",
+        "time": "14:00",
+        "title": "Thánh Lễ tại nhà thờ Kasukabe, Saitama-Ken",
+        "name": "Cha Quốc Định",
+        "slug": "thanh-le-tai-nha-tho-kasukabe-saitama-ken-2025-12-07"
+    },
+    {
+        "date": "2025-12-07T15:00:00+09:00",
+        "time": "15:00",
+        "title": "Thánh Lễ tại nhà thờ Kameoka, Kyoto",
+        "name": "Cha Năng CMF",
+        "slug": "thanh-le-tai-nha-tho-kameoka-kyoto-2025-12-07"
+    },
+    {
+        "date": "2025-12-07T15:00:00+09:00",
+        "time": "15:00",
+        "title": "Thánh Lễ tại nhà thờ Nigawa, Osaka",
+        "name": "Cha Bỉnh OFM Conv.",
+        "slug": "thanh-le-tai-nha-tho-nigawa-osaka-2025-12-07"
+    },
+    {
+        "date": "2025-12-07T15:00:00+09:00",
+        "time": "15:00",
+        "title": "Thánh Lễ tại nhà thờ Kita 11 Jo",
+        "name": "Cha Lam OFM",
+        "slug": "thanh-le-tai-nha-tho-kita-11-jo-2025-12-07"
+    },
+    {
+        "date": "2025-12-07T15:00:00+09:00",
+        "time": "15:00",
+        "title": "Thánh Lễ tại nhà thờ Ignatio, Yotsuya",
+        "name": "Cha Hiến, Cha Nhã SJ",
+        "slug": "thanh-le-tai-nha-tho-ignatio-yotsuya-2025-12-07"
+    },
+    {
+        "date": "2025-12-07T15:00:00+09:00",
+        "time": "15:00",
+        "title": "Thánh Lễ tại nhà thờ Kurume, Fukuoka",
+        "name": "Cha Thuyên CM",
+        "slug": "thanh-le-tai-nha-tho-kurume-fukuoka-2025-12-07"
+    },
+    {
+        "date": "2025-12-07T15:30:00+09:00",
+        "time": "15:30",
+        "title": "Thánh Lễ tại nhà thờ Chính Tòa Tamatsukuri, Osaka",
+        "name": "",
+        "slug": "thanh-le-tai-nha-tho-chinh-toa-tamatsukuri-osaka-2025-12-07"
+    },
+    {
+        "date": "2025-12-07T16:00:00+09:00",
+        "time": "16:00",
+        "title": "Thánh Lễ tại nhà thờ Fujisawa, Kanagawa-Ken",
+        "name": "Cha Sơn",
+        "slug": "thanh-le-tai-nha-tho-fujisawa-kanagawa-ken-2025-12-07"
     }
 ]
