@@ -1,10 +1,10 @@
 @import "tailwindcss";
 
 @theme {
-  --color-main: var(--color-zinc-600);
-  --color-namthanh: var(--color-zinc-800);
+  --color-main: var(--color-green-600);
+  --color-namthanh: var(--color-green-800);
 }
 
 body {
-  @apply min-h-dvh text-main bg-linear-to-b from-zinc-100 to-zinc-300;
+  @apply min-h-dvh text-main bg-linear-to-b from-green-100 to-green-200;
 }
