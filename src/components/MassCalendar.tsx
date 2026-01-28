@@ -40,7 +40,7 @@ export default function MassCalendar() {
             <CardTitle className="text-center">Lịch Thánh Lễ</CardTitle>
             <p className="text-sm mt-5 text-center">
               Nguồn dữ liệu từ: <a href="https://vietcatholicjp.net/" target="blank" className="text-destructive">https://vietcatholicjp.net/</a> <br/>
-              Dữ liệu được cập nhật ngày: <span className="text-destructive">30日12月2025年</span>
+              Dữ liệu được cập nhật ngày: <span className="text-destructive">28日1月2026年</span>
             </p>
           </CardHeader>
           <CardContent className="flex justify-center max-w-full">
