@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://lich-thanh-le-o-nhat-ban.vercel.app
+
+# Sitemaps
+Sitemap: https://lich-thanh-le-o-nhat-ban.vercel.app/sitemap.xml
