@@ -1,17 +1,12 @@
 {
-    "2026-04-04": [
+    "2026-05-02": [
         {
-            "title": "Thánh Lễ Vọng Phục Sinh tại Đại Học Sophia",
-            "celebrant": "Cha Hiến, Cha Thế SJ",
+            "title": "Thánh Lễ tại nhà thờ Ignatio, Yotsuya",
+            "celebrant": "Cha Thế SJ",
             "time": "19:30"
         }
     ],
-    "2026-04-05": [
-        {
-            "title": "Thánh Lễ tại nhà thờ Aizuwamamatsu, Fukushima-Ken",
-            "celebrant": "Cha Trí Sch.P.",
-            "time": "09:30"
-        },
+    "2026-05-03": [
         {
             "title": "Thánh Lễ tại Nguyện Xá Chofu, Tokyo",
             "celebrant": "Cha Hiến",
@@ -23,14 +18,19 @@
             "time": "11:30"
         },
         {
-            "title": "Thánh Lễ Phục Sinh tại nhà thờ Kariya",
-            "celebrant": "Cha Tường SVD",
-            "time": "12:00"
+            "title": "Thánh Lễ tại nhà thờ Koriyama, Fukushima-Ken",
+            "celebrant": "Cha Trí Sch.P.",
+            "time": "11:30"
         },
         {
-            "title": "Thánh Lễ tại nhà thờ Kokura,Fukuoka",
-            "celebrant": "Cha ThuyênCM,Cha Phương CM",
-            "time": "13:00"
+            "title": "Thánh Lễ tại nhà thờ Nakatsu, Oita-Ken",
+            "celebrant": "Cha Trinh",
+            "time": "11:30"
+        },
+        {
+            "title": "Thánh Lễ tại nhà thờ Kariya, Aichi-Ken",
+            "celebrant": "Cha Tường SVD",
+            "time": "12:00"
         },
         {
             "title": "Thánh Lễ tại nhà thờ Ichinomiya, Aichi-Ken",
@@ -38,18 +38,28 @@
             "time": "13:00"
         },
         {
-            "title": "Thánh Lễ Phục Sinh tại nhà thờ Chính Tòa Kagoshima",
-            "celebrant": "Cha Minh Anh",
+            "title": "Thánh Lễ tại nhà thờ Kokura, Fukuoka",
+            "celebrant": "Cha Thuyên CM, Cha Phương CM",
             "time": "13:00"
         },
         {
-            "title": "Thánh Lễ tại nhà thờ Kasukabe, Saitama-Ken",
-            "celebrant": "Cha Quốc Định",
+            "title": "Thánh Lễ tại nhà thờ Kusatsu, Kyoto",
+            "celebrant": "Cha Năng CMF",
             "time": "14:00"
         },
         {
-            "title": "Thánh Lễ tại nhà thờ Kameoka, Kyoto",
-            "celebrant": "Cha Năng CMF",
+            "title": "Thánh Lễ tại nhà thờ Taniyama, Kagoshima-Ken",
+            "celebrant": "Cha Minh Anh",
+            "time": "14:00"
+        },
+        {
+            "title": "Thánh Lễ tại nhà thờ Gotanjo, Aichi-Ken",
+            "celebrant": "Cha Nhật SVD",
+            "time": "14:00"
+        },
+        {
+            "title": "Thánh Lễ tại nhà thờ Nakatsu, Oita-Ken",
+            "celebrant": "Cha Trinh",
             "time": "15:00"
         },
         {
@@ -63,44 +73,39 @@
             "time": "15:00"
         },
         {
-            "title": "Thánh Lễ Phục Sinh tại Đại Học Sophia",
-            "celebrant": "Cha Thế SJ, Cha Ân SJ",
+            "title": "Thánh Lễ tại nhà thờ Ignatio, Yotsuya",
+            "celebrant": "Cha Hiến, Cha Thế SJ",
             "time": "15:00"
         },
         {
-            "title": "Thánh Lễ tại nhà thờ Kurume,Fukuoka",
-            "celebrant": "Cha ThuyênCM,Cha Phương CM",
+            "title": "Thánh Lễ tại nhà thờ Kurume",
+            "celebrant": "Cha Thuyên CM, Cha Phương CM",
             "time": "15:00"
         },
         {
-            "title": "Thánh Lễ tại nhà thờ Nakatsu, Oita-Ken",
-            "celebrant": "Cha Trinh",
+            "title": "Thánh Lễ tại nhà thờ Kasukabe, Saitama-Ken",
+            "celebrant": "Cha Quốc Định",
             "time": "15:00"
-        },
-        {
-            "title": "Thánh Lễ tại nhà thờ Chính Tòa Tamatsukuri, Osaka",
-            "celebrant": null,
-            "time": "15:30"
         },
         {
             "title": "Thánh Lễ tại nhà thờ Fujisawa, Kanagawa-Ken",
-            "celebrant": "Cha Tú MF",
-            "time": "16:00"
-        },
-        {
-            "title": "Thánh Lễ tại nhà thờ Tsukuba",
-            "celebrant": "Cha Hiến",
+            "celebrant": null,
             "time": "16:00"
         }
     ],
-    "2026-04-06": [
+    "2026-05-04": [
         {
             "title": "Thánh Lễ tại nhà thờ Akune, Kagoshima-Ken",
             "celebrant": "Cha Minh Anh",
             "time": "18:30"
         }
     ],
-    "2026-04-11": [
+    "2026-05-09": [
+        {
+            "title": "Thánh Lễ tại nhà thờ Yakushima, Kagoshima-Ken",
+            "celebrant": "Cha Minh Anh",
+            "time": "16:00"
+        },
         {
             "title": "Thánh Lễ tại nhà thờ Fushimi, Kyoto",
             "celebrant": "Cha Năng CMF",
@@ -108,28 +113,28 @@
         },
         {
             "title": "Thánh Lễ tại nhà thờ Ignatio, Yotsuya",
-            "celebrant": "Cha Thế SJ",
+            "celebrant": "Cha Ân SJ",
             "time": "19:30"
         }
     ],
-    "2026-04-12": [
+    "2026-05-10": [
         {
             "title": "Thánh Lễ tại nhà thờ Seto, Aichi-Ken",
             "celebrant": "Cha Điềm SVD",
             "time": "11:30"
         },
         {
-            "title": "Thánh Lễ tại nhà thờ Hanamaki, Iwate-Ken",
+            "title": "Thánh Lễ tại nhà thờ Ofunato, Iwate-Ken",
             "celebrant": "Cha Trí Sch.P.",
             "time": "12:00"
         },
         {
             "title": "Thánh Lễ tại nhà thờ Yamato, Kanagawa-Ken",
-            "celebrant": "Cha Ân SJ, Cha Hiến",
+            "celebrant": "Cha Hiến",
             "time": "12:00"
         },
         {
-            "title": "Thánh Lễ tại nhà thờ Minami Miyazaki, Miyazaki-Ken",
+            "title": "Thánh Lễ tại nhà thờ Miyakonojo, Miyazaki-Ken",
             "celebrant": "Cha Trinh",
             "time": "13:00"
         },
@@ -139,8 +144,13 @@
             "time": "13:30"
         },
         {
-            "title": "Thánh Lễ tại nhà thờ Daimyo,Fukuoka",
-            "celebrant": "Cha ThuyênCM,Cha Phương CM",
+            "title": "Thánh Lễ tại nhà thờ Daimyo, Fukuoka",
+            "celebrant": "Cha Thuyên CM, Cha Phương CM",
+            "time": "13:30"
+        },
+        {
+            "title": "Thánh lễ tại nhà thờ Higashimatsuyama",
+            "celebrant": "Cha Ân SJ",
             "time": "13:30"
         },
         {
@@ -154,23 +164,13 @@
             "time": "14:00"
         },
         {
-            "title": "Thánh Lễ tại nhà thờ Gotanjo",
-            "celebrant": "Cha Phú SDB",
-            "time": "14:00"
-        },
-        {
             "title": "Thánh Lễ tại nhà thờ Tetori, Kumamoto",
-            "celebrant": "Cha ThuyênCM,Cha PhươngCM",
+            "celebrant": "Cha Thuyên CM, Cha Phương CM",
             "time": "14:00"
         },
         {
             "title": "Thánh Lễ tại nhà thờ Ignatio, Yotsuya",
             "celebrant": "Cha Thế SJ, Cha Hiến",
-            "time": "15:00"
-        },
-        {
-            "title": "Thánh Lễ tại nhà thờ Kichijoji, Tokyo",
-            "celebrant": "Cha Hy SVD",
             "time": "15:00"
         },
         {
@@ -194,7 +194,7 @@
             "time": "16:00"
         }
     ],
-    "2026-04-18": [
+    "2026-05-16": [
         {
             "title": "Thánh Lễ tại nhà thờ Nakatsu, Oita-Ken",
             "celebrant": "Cha Trinh",
@@ -202,11 +202,11 @@
         },
         {
             "title": "Thánh Lễ tại nhà thờ Ignatio, Yotsuya",
-            "celebrant": "Cha Ân SJ",
+            "celebrant": "Cha Thế SJ",
             "time": "19:30"
         }
     ],
-    "2026-04-19": [
+    "2026-05-17": [
         {
             "title": "Thánh Lễ tại nhà thờ Kawaguchi, Saitama-Ken",
             "celebrant": "Cha Thế SJ",
@@ -223,13 +223,8 @@
             "time": "12:00"
         },
         {
-            "title": "Thánh Lễ tại nhà thờ Hirosaki, Aomori-Ken",
+            "title": "Thánh Lễ tại nhà thờ Aomori, Aomori-Ken",
             "celebrant": "Cha Trí Sch.P.",
-            "time": "12:30"
-        },
-        {
-            "title": "Thánh Lễ tại nhà thờ Kadoma, Osaka",
-            "celebrant": "Cha Ý CMF",
             "time": "13:00"
         },
         {
@@ -239,7 +234,12 @@
         },
         {
             "title": "Thánh Lễ tại nhà thờ Kawagoe, Saitama-Ken",
-            "celebrant": "Cha Tín SC",
+            "celebrant": "Cha Tài SC",
+            "time": "13:00"
+        },
+        {
+            "title": "Thánh Lễ tại nhà thờ Tsuchiura, Saitama-Ken",
+            "celebrant": "Đức Cha Mario, Cha Ân SJ",
             "time": "13:00"
         },
         {
@@ -268,8 +268,18 @@
             "time": "14:00"
         },
         {
+            "title": "Thánh Lễ tại nhà thờ Hachioji, Tokyo",
+            "celebrant": "Cha Lập SDB",
+            "time": "14:00"
+        },
+        {
             "title": "Thánh Lễ tại nhà thờ Izumi, Kagoshima-Ken",
             "celebrant": "Cha Quốc Tiến",
+            "time": "14:00"
+        },
+        {
+            "title": "Thánh Lễ tại nhà thờ Kichijoji, Tokyo",
+            "celebrant": "Cha Thân SJ",
             "time": "14:00"
         },
         {
@@ -278,8 +288,8 @@
             "time": "15:00"
         },
         {
-            "title": "Thánh Lễ tại nhà thờ Yukuhashi,Fukuoka",
-            "celebrant": "Cha ThuyênCM,ChaPhƣơng CM",
+            "title": "Thánh Lễ tại nhà thờ Yukuhashi, Fukuoka",
+            "celebrant": "Cha Thuyên CM, Cha Phương CM",
             "time": "15:00"
         },
         {
@@ -303,7 +313,12 @@
             "time": "18:00"
         }
     ],
-    "2026-04-25": [
+    "2026-05-23": [
+        {
+            "title": "Thánh Lễ tại nhà thờ Nakatsu, Oita-Ken",
+            "celebrant": "Cha Trinh",
+            "time": "19:00"
+        },
         {
             "title": "Thánh Lễ tại nhà thờ Ignatio, Yotsuya",
             "celebrant": "Cha Ân SJ",
@@ -315,7 +330,7 @@
             "time": "19:30"
         }
     ],
-    "2026-04-26": [
+    "2026-05-24": [
         {
             "title": "Thánh Lễ tại nhà thờ Takatori, Kobe",
             "celebrant": null,
@@ -343,7 +358,7 @@
         },
         {
             "title": "Thánh Lễ tại nhà thờ Daimyo, Fukuoka",
-            "celebrant": "Cha ThuyênCM,Cha Phương CM",
+            "celebrant": "Cha Thuyên CM, Cha Phương CM",
             "time": "13:30"
         },
         {
@@ -373,7 +388,7 @@
         },
         {
             "title": "Thánh Lễ tại nhà thờ Kamifukuoka, Saitama-Ken",
-            "celebrant": "Cha Hiến",
+            "celebrant": "Cha Ân SJ",
             "time": "14:00"
         },
         {
@@ -413,17 +428,12 @@
         },
         {
             "title": "Thánh Lễ tại nhà thờ Sueyoshicho",
-            "celebrant": "Cha Tú CM",
+            "celebrant": "Cha Ân SJ, Cha Tú CM",
             "time": "16:00"
         },
         {
-            "title": "Thánh Lễ tại nhà thờ Mizumaki,Fukuoka",
-            "celebrant": "ChaThuyênCM,ChaPhƣơng CM",
-            "time": "16:00"
-        },
-        {
-            "title": "Thánh Lễ tại nhà thờ Fujisawa, Kanagawa-Ken",
-            "celebrant": "Cha Sơn",
+            "title": "Thánh Lễ tại nhà thờ Mizumaki, Fukuoka",
+            "celebrant": "Cha Thuyên CM, Cha Phương CM",
             "time": "16:00"
         },
         {
@@ -432,24 +442,58 @@
             "time": "17:30"
         }
     ],
-    "2026-04-27": [
+    "2026-05-25": [
         {
             "title": "Thánh Lễ tại nhà thờ Akune, Kagoshima",
             "celebrant": "Cha Minh Anh",
             "time": "18:30"
         }
     ],
-    "2026-05-02": [
+    "2026-05-30": [
         {
             "title": "Thánh Lễ tại nhà thờ Ignatio, Yotsuya",
             "celebrant": "Cha Thế SJ",
             "time": "19:30"
         }
     ],
-    "2026-05-03": [
+    "2026-05-31": [
+        {
+            "title": "Thánh Lễ tại nhà thờ Kamata",
+            "celebrant": "Cha Ân SJ, Cha Hiến",
+            "time": "11:00"
+        },
+        {
+            "title": "Thánh Lễ tại nhà thờ Kariya, Nagoya",
+            "celebrant": "Cha Tường SVD",
+            "time": "12:00"
+        },
+        {
+            "title": "Thánh Lễ tại nhà thờ Ogaki, Nagoya",
+            "celebrant": "Cha Lộ MM",
+            "time": "14:00"
+        },
+        {
+            "title": "Thánh lễ tại nhà thờ Ignatio, Yotsuya",
+            "celebrant": "Cha Thế SJ",
+            "time": "15:00"
+        }
+    ],
+    "2026-06-06": [
+        {
+            "title": "Thánh Lễ tại nhà thờ Ignatio, Yotsuya",
+            "celebrant": "Cha Thế SJ",
+            "time": "19:30"
+        }
+    ],
+    "2026-06-07": [
+        {
+            "title": "Thánh Lễ tại nhà thờ Aizuwamamatsu, Fukushima-Ken",
+            "celebrant": "Cha Trí Sch.P.",
+            "time": "09:30"
+        },
         {
             "title": "Thánh Lễ tại Nguyện Xá Chofu, Tokyo",
-            "celebrant": "Cha Hiến",
+            "celebrant": "Cha Ân SJ, Cha Hiến",
             "time": "11:00"
         },
         {
@@ -458,33 +502,28 @@
             "time": "11:30"
         },
         {
-            "title": "Thánh Lễ tại nhà thờ Koriyama, Fukushima-Ken",
-            "celebrant": "Cha Trí Sch.P.",
-            "time": "11:30"
-        },
-        {
-            "title": "Thánh Lễ tại nhà thờ Kariya, Aichi-Ken",
+            "title": "Thánh Lễ tại nhà thờ Kariya",
             "celebrant": "Cha Tường SVD",
             "time": "12:00"
         },
         {
+            "title": "Thánh Lễ tại nhà thờ Kokura, Fukuoka",
+            "celebrant": "Cha Thuyên CM, Cha Phương CM",
+            "time": "13:00"
+        },
+        {
             "title": "Thánh Lễ tại nhà thờ Ichinomiya, Aichi-Ken",
-            "celebrant": "Vĩnh Toàn MSC",
+            "celebrant": "Cha Điềm SVD",
             "time": "13:00"
         },
         {
-            "title": "Thánh Lễ tại nhà thờ Kokura,Fukuoka",
-            "celebrant": "Cha ThuyênCM,Cha Phương CM",
-            "time": "13:00"
-        },
-        {
-            "title": "Thánh Lễ tại nhà thờ Kusatsu, Kyoto",
-            "celebrant": "Cha Năng CMF",
+            "title": "Thánh Lễ tại nhà thờ Kasukabe, Saitama-Ken",
+            "celebrant": "Cha Quốc Định",
             "time": "14:00"
         },
         {
-            "title": "Thánh Lễ tại nhà thờ Nakatsu, Oita-Ken",
-            "celebrant": "Cha Trinh",
+            "title": "Thánh Lễ tại nhà thờ Kameoka, Kyoto",
+            "celebrant": "Cha Năng CMF",
             "time": "15:00"
         },
         {
@@ -499,22 +538,22 @@
         },
         {
             "title": "Thánh Lễ tại nhà thờ Ignatio, Yotsuya",
-            "celebrant": "Cha Hiến, Cha Thế SJ",
+            "celebrant": "Cha Hiến, Cha Thế SJ, Cha Ân SJ",
             "time": "15:00"
         },
         {
-            "title": "Thánh Lễ tại nhà thờ Kurume",
+            "title": "Thánh Lễ tại nhà thờ Kurume, Fukuoka",
             "celebrant": "Cha Thuyên CM, Cha Phương CM",
             "time": "15:00"
         },
         {
-            "title": "Thánh Lễ tại nhà thờ Kasukabe, Saitama-Ken",
-            "celebrant": "Cha Quốc Định",
-            "time": "15:00"
+            "title": "Thánh Lễ tại nhà thờ Chính Tòa Tamatsukuri, Osaka",
+            "celebrant": null,
+            "time": "15:30"
         },
         {
             "title": "Thánh Lễ tại nhà thờ Fujisawa, Kanagawa-Ken",
-            "celebrant": "Cha Sơn",
+            "celebrant": null,
             "time": "16:00"
         }
     ]
