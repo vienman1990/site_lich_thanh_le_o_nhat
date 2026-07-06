@@ -16,7 +16,7 @@ export const getMassesByDate = (date: string): Mass[] => {
 
 export default function MassCalendar() {
   const [selectedDate, setSelectedDate] = useState<Date | undefined>(
-    new Date()
+    new Date(),
   );
 
   const selectedMasses: Mass[] = selectedDate
@@ -39,8 +39,17 @@ export default function MassCalendar() {
           <CardHeader>
             <CardTitle className="text-center">Lịch Thánh Lễ</CardTitle>
             <p className="text-sm mt-5 text-center">
-              Nguồn dữ liệu từ: <a href="https://vietcatholicjp.net/" target="blank" className="text-destructive">https://vietcatholicjp.net/</a> <br/>
-              Dữ liệu được cập nhật ngày: <span className="text-destructive">17日5月2026年</span>
+              Nguồn dữ liệu từ:{" "}
+              <a
+                href="https://vietcatholicjp.net/"
+                target="blank"
+                className="text-destructive"
+              >
+                https://vietcatholicjp.net/
+              </a>{" "}
+              <br />
+              Dữ liệu được cập nhật ngày:{" "}
+              <span className="text-destructive">6日7月2026年</span>
             </p>
           </CardHeader>
           <CardContent className="flex justify-center max-w-full">
@@ -78,8 +87,10 @@ export default function MassCalendar() {
           <ScrollArea className="h-full">
             {selectedMasses.length > 0 ? (
               <div className="space-y-4">
-
-                <p className="text-xs text-destructive">* ngày và giờ Thánh Lễ có thể bị thay đổi, vui lòng liên hệ cộng đoàn địa phương để xác nhận trước.</p>
+                <p className="text-xs text-destructive">
+                  * ngày và giờ Thánh Lễ có thể bị thay đổi, vui lòng liên hệ
+                  cộng đoàn địa phương để xác nhận trước.
+                </p>
 
                 {selectedMasses.map((mass, index) => (
                   <div
