@@ -49,7 +49,7 @@ export default function MassCalendar() {
               </a>{" "}
               <br />
               Dữ liệu được cập nhật ngày:{" "}
-              <span className="text-destructive">6日7月2026年</span>
+              <span className="text-destructive">29日8月2026年</span>
             </p>
           </CardHeader>
           <CardContent className="flex justify-center max-w-full">
